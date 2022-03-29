@@ -1,0 +1,1 @@
+DB = mongodb+srv://mydb:mydb1234@cluster0.m8suo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
